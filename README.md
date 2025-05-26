@@ -35,5 +35,9 @@ Discover open ports on devices in the local network to understand network exposu
 ## ✅ Outcome
 Understood how to perform port scans and identify potential vulnerabilities in a local network setup.
 
+## 📄 DOCUMENTATION PDF
+
+[Click here to download the original task PDF](Documentation.pdf)
+
 
 
