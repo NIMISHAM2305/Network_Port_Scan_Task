@@ -22,7 +22,7 @@ Discover open ports on devices in the local network to understand network exposu
 - `scan-results.txt` – Output from Nmap scan
 - `open ports.png` – Output from Nmap scan on cmd
 - `wireshark tcp packets.png`- packets captured by wireshark
-- `Documantation.txt`- Explaining the step by step tasks performed
+- `Documentation.txt`- Explaining the step by step tasks performed
 
 
 ## 📚 Key Concepts
